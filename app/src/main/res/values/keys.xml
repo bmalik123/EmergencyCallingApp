@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MAPS_API_KEY">AIzaSyB_gEuEkITJGWSYVjDe5Ne1MLkN6vJCJDo</string>
+    <string name="PLACES_DIRECT_API_KEY">AIzaSyA7zugNbjTzkT27-W21K2FyowZp6W_BeGI</string>
+
+    <string name="LYFT_CLIENT_ID">3n7vVGiJ1ne8</string>
+    <string name="LYFT_CLIENT_TOKEN">F+MbsFMKWVVaP8dwXtqYYrCnEpWZJXztLYXHphnJMFfoQMHD4c9FcMpiisW4bSqZO+Y6lKjXugOtOH1zgsCUyGMsDnxkfiYLC1dhX8A6lbBqSpfj0N2zx4k=</string>
+
+    <string name="UBER_CLIENT_ID">KhmDmo_xH5nlI59acvdde1ivod5yebOz</string>
+    <string name="UBER_SERVER_TOKEN">dfF0JqoPTb1m_ljvoteOicQ6mRlakUMsRbRSE1W4</string>
+</resources>
